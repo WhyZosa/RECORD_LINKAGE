@@ -1,0 +1,8 @@
+pandas
+python-Levenshtein
+tabulate
+scikit-learn
+pandarallel
+fuzzywuzzy
+jellyfish
+numpy
